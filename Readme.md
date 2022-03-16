@@ -1,1 +1,1 @@
-my vim setup
+my vim and bash setup
